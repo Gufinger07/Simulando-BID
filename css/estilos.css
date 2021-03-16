@@ -1,0 +1,54 @@
+body {
+    background-color: #B0E0E6
+}
+header {
+    background-color:  #1C1C1C
+}
+.titulo_principal {
+    font-family: "Pacifico", cursive;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+.slicker {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    height:400px;
+    width: 600px;
+}
+.tabela {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.table {
+    width: 56rem;
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    border-radius: 0.25rem;
+    color: white;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.botao-gremio {
+    background-color: blue;
+    border: 2px solid blue;
+}
+.botao-vasco {
+    background-color: black;
+    border: 2px solid black;
+}
+.botao-galo {
+    background-color: gray;
+    border : 2px solid gray;
+}
+.botoes {
+    display: flex;
+    justify-content: center;
+}
+
